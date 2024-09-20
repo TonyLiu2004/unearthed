@@ -1,1 +1,2 @@
-q
+- database creation needs quotes around column titles to keep caps
+-  client might try to access server before its up, causing connect error. just restart client.
