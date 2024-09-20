@@ -7,6 +7,7 @@ const renderGift = async () => {
     const giftContent = document.getElementById('gift-content')
     let gift 
     gift = data.find(gift => gift.id === requestedID)
+    console.log(gift)
     if (gift) {
         document.getElementById('image').src = gift.image
         document.getElementById('name').textContent = gift.name

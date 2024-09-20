@@ -88,7 +88,27 @@ const giftData = [
         "description":"A perfect pop of color",
         "submittedBy":"Brandon",
         "submittedOn":"2023-01-10T14:48:00"
+    },
+    {
+        "id": 10,
+        "name": "Chips Ahoy",
+        "pricePoint": "$6",
+        "audience": "Foodies",
+        "image":"https://m.media-amazon.com/images/I/814eL5xV5GL.jpg",
+        "description":"Very tasty Cookies",
+        "submittedBy":"Tony",
+        "submittedOn":"2024-09-20T14:48:00"
+    },
+    {
+        "id": 11,
+        "name": "Iphone XIX",
+        "pricePoint": "1999",
+        "audience": "Tech",
+        "image":"https://hardforum.com/data/attachment-files/2019/09/312348_iphone.jpg",
+        "description":"The all new iphone, including 20 cameras that allows you to take the same photo in different angles.",
+        "submittedBy":"Tony",
+        "submittedOn":"2024-09-20T11:12:00"
     }
-  ]
+  ];
   
   export default giftData
