@@ -21,7 +21,7 @@ const Gifts = (props) => {
                    <Card id={gift.id} 
                          image={gift.image} 
                          name={gift.name} 
-                         pricepoint={gift.pricepoint} 
+                         pricePoint={gift.pricePoint} 
                          audience={gift.audience} />
 
                 ) : <h3 className="noResults">{'No Gifts Yet 😞'}</h3>

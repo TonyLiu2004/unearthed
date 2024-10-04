@@ -2,7 +2,7 @@ const giftData = [
     {
         "id": 1,
         "name": "Disco Ball Candle",
-        "pricePoint": "$12",
+        "pricePoint": "12",
         "audience": "Candle Lovers",
         "image":"https://tinyurl.com/39xc9h6y",
         "description":"A party in a candle",
@@ -12,7 +12,7 @@ const giftData = [
     {
         "id": 2,
         "name": "Lego Flower Bouquet Kit",
-        "pricePoint": "$20",
+        "pricePoint": "20",
         "audience": "Green Thumbs",
         "image":"https://tinyurl.com/ydpv2bt9",
         "description":"A gift and fun activity to do together",
@@ -22,7 +22,7 @@ const giftData = [
     {
         "id": 3,
         "name": "Nintendo Switch Lite",
-        "pricePoint": "$200",
+        "pricePoint": "200",
         "audience": "Gamers",
         "image":"https://tinyurl.com/2cdfe59x",
         "description":"A gift for gamers on-the-go",
@@ -32,7 +32,7 @@ const giftData = [
     {
         "id": 4,
         "name": "Nike Panda Dunks",
-        "pricePoint": "$24",
+        "pricePoint": "24",
         "audience": "Sneakerheads",
         "image":"https://tinyurl.com/y9bzv8xd",
         "description":"A fan-favorite black and white color-blocking sneaker",
@@ -42,7 +42,7 @@ const giftData = [
     {
         "id": 5,
         "name": "Razer Kitty Headset",
-        "pricePoint": "$99",
+        "pricePoint": "99",
         "audience": "Gamers",
         "image":"https://tinyurl.com/4pt84wry",
         "description":"Create the purrfect gaming look with your own killer kitty style",
@@ -52,7 +52,7 @@ const giftData = [
     {
         "id": 6,
         "name": "Nellsi Sunset Lamp Projection",
-        "pricePoint": "$85",
+        "pricePoint": "85",
         "audience": "Sungazers",
         "image":"https://tinyurl.com/y76zsc37",
         "description":"Sunshine any time, any place",
@@ -62,7 +62,7 @@ const giftData = [
     {
         "id": 7,
         "name": "Frigidaire Retro Mini Fridge",
-        "pricePoint": "$104",
+        "pricePoint": "104",
         "audience": "Foodies",
         "image":"https://tinyurl.com/dzyhec8a",
         "description":"A retro way of keeping things cool",
@@ -72,7 +72,7 @@ const giftData = [
     {
         "id": 8,
         "name": "Crosley Discover Turntable",
-        "pricePoint": "$50",
+        "pricePoint": "50",
         "audience": "Music Lovers",
         "image":"https://tinyurl.com/4vycxmkm",
         "description":"A portable turntable that is ready to play right out of the box",
@@ -82,7 +82,7 @@ const giftData = [
     {
         "id": 9,
         "name": "Brandon Blackwood Parker Bag",
-        "pricePoint": "$20",
+        "pricePoint": "20",
         "audience": "Fashionistas",
         "image":"https://tinyurl.com/2n6pszw7",
         "description":"A perfect pop of color",
@@ -92,7 +92,7 @@ const giftData = [
     {
         "id": 10,
         "name": "Chips Ahoy",
-        "pricePoint": "$6",
+        "pricePoint": "6",
         "audience": "Foodies",
         "image":"https://m.media-amazon.com/images/I/814eL5xV5GL.jpg",
         "description":"Very tasty Cookies",
@@ -102,7 +102,7 @@ const giftData = [
     {
         "id": 11,
         "name": "Iphone XIX",
-        "pricePoint": "$1999",
+        "pricePoint": "1999",
         "audience": "Tech",
         "image":"https://hardforum.com/data/attachment-files/2019/09/312348_iphone.jpg",
         "description":"The all new iphone, including 20 cameras that allows you to take the same photo in different angles.",

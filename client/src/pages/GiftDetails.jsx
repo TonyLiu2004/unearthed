@@ -7,7 +7,7 @@ import './GiftDetails.css'
 
 const GiftDetails = ({data}) => {
 
-    const [gift, setGift] = useState({id: 0, name: "", pricepoint: "", audience: "", image: "", description: "", submittedby: "", submittedon: ""})
+    const [gift, setGift] = useState({id: 0, name: "", pricePoint: "", audience: "", image: "", description: "", submittedBy: "", submittedOn: ""})
 
     const { id } = useParams()
 
@@ -29,8 +29,8 @@ const GiftDetails = ({data}) => {
                 </div>
                 <div class="gift-details">
                     <h2 id="name">{gift.name}</h2>
-                    <p id="submittedBy">{'Submitted By: ' + gift.submittedby}</p>
-                    <p id="pricePoint">{'Price: ' + gift.pricepoint}</p>
+                    <p id="submittedBy">{'Submitted By: ' + gift.submittedBy}</p>
+                    <p id="pricePoint">{'Price: ' + gift.pricePoint}</p>
                     <p id="audience">{'Great For: ' + gift.audience}</p>
                     <p id="description">{gift.description}</p>
                 </div>
