@@ -10,4 +10,5 @@
 
 <a href="https://youtube.com/shorts/gWyHpFkxIAg?feature=share">
   <img src="https://img.youtube.com/vi/gWyHpFkxIAg/0.jpg" width="800" />
-</a>[![View Slides](./SpokenVision-Thumbnail.png)](https://docs.google.com/presentation/d/1-q8HFq-ZHlbFR2NloiWQXmuxu3pfY8jJQWInpOJ0tsQ/edit?usp=sharing)
+</a>
+[![View Slides](./SpokenVision-Thumbnail.png)](https://docs.google.com/presentation/d/1-q8HFq-ZHlbFR2NloiWQXmuxu3pfY8jJQWInpOJ0tsQ/edit?usp=sharing)
