@@ -40,9 +40,8 @@ Set the `API_ENDPOINT` to:
 ```js
 const API_ENDPOINT = "http://localhost:5000";
 ```
-server will be hosted at http://localhost:8000/index.html
-Backend will be hosted at htpp://localhost:5000/
-To call local backend, change the API_ENDPOINT in FrontEnd/public/script.js and FrontEnd/public/model-loader.js to htpp://localhost:5000
+
+- `Webpage will be hosted at http://localhost:8000/index.html`
   
 <p align="center">
   <a href="https://youtube.com/shorts/gWyHpFkxIAg?feature=share">
