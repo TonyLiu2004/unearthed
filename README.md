@@ -14,4 +14,4 @@
   </a>
 </p>
 
-[![View Slides](./SpokenVision-Thumbnail.png)](https://docs.google.com/presentation/d/1-q8HFq-ZHlbFR2NloiWQXmuxu3pfY8jJQWInpOJ0tsQ/edit?usp=sharing)
+[![View Slides](https://i.imgur.com/h8mkL0S.png)](https://docs.google.com/presentation/d/1-q8HFq-ZHlbFR2NloiWQXmuxu3pfY8jJQWInpOJ0tsQ/edit?usp=sharing)
