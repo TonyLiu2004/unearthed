@@ -8,8 +8,13 @@
 - Remember to export getGiftsById in server/controllers/gift.js
 - Make sure select queries have quotations
 
-##⚙️ Setup Instructions
-Frontend:
+## ⚙️ Setup Instructions
+
+### 🖥️ Frontend
+
+Serve the frontend using Python's built-in HTTP server:
+
+```bash
 cd SpokenVision/FrontEnd/public
 python -m http.server 8000
 
@@ -20,7 +25,7 @@ uvicorn cloud_server:app --host 0.0.0.0 --port 5000
 
 server will be hosted at http://localhost:8000/index.html
 Backend will be hosted at htpp://localhost:5000/
-To call localbackend, change the API_ENDPOINT in script.js and model-loader.js to htpp://localhost:5000
+To call local backend, change the API_ENDPOINT in FrontEnd/public/script.js and FrontEnd/public/model-loader.js to htpp://localhost:5000
   
 <p align="center">
   <a href="https://youtube.com/shorts/gWyHpFkxIAg?feature=share">
