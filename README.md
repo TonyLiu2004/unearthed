@@ -17,6 +17,7 @@ Serve the frontend using Python's built-in HTTP server:
 ```bash
 cd SpokenVision/FrontEnd/public
 python -m http.server 8000
+```
 
 Backend:
 cd Backend
