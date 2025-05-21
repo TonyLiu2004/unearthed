@@ -19,11 +19,27 @@ cd SpokenVision/FrontEnd/public
 python -m http.server 8000
 ```
 
-Backend:
+### 🧠 Backend
+
+Serve the backend using Uvicorn:
+
+```bash
 cd Backend
 uvicorn cloud_server:app --host 0.0.0.0 --port 5000
+```
 
+### 🔁 Connect Frontend to Backend
 
+Open the following files:
+
+- `FrontEnd/public/script.js`
+- `FrontEnd/public/model-loader.js`
+
+Set the `API_ENDPOINT` to:
+
+```js
+const API_ENDPOINT = "http://localhost:5000";
+```
 server will be hosted at http://localhost:8000/index.html
 Backend will be hosted at htpp://localhost:5000/
 To call local backend, change the API_ENDPOINT in FrontEnd/public/script.js and FrontEnd/public/model-loader.js to htpp://localhost:5000
