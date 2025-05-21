@@ -9,3 +9,4 @@
 - Make sure select queries have quotations
 
 [![Demo Video](https://img.youtube.com/vi/gWyHpFkxIAg/0.jpg)](https://youtube.com/shorts/gWyHpFkxIAg?feature=share)
+[![View Slides](./SpokenVision_Thumbnail.png)](https://docs.google.com/presentation/d/1-q8HFq-ZHlbFR2NloiWQXmuxu3pfY8jJQWInpOJ0tsQ/edit?usp=sharing)
